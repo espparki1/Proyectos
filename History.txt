@@ -1,0 +1,231 @@
+   13  ls
+   14  ls
+   15  ls
+   16  ls
+   17  cd..
+   18  cd ..
+   19  cd Proyectos
+   20  ls
+   21  ls
+   22  clear
+   23  git init
+   24  ls -l
+   25  ls -a
+   26  ls -la
+   27  touch fichero1.txt
+   28  ls
+   29  git status
+   30  git add fichero1.txt
+   31  status
+   32  git status
+   33  assasasasasssssssssasasasassass
+   34  git commit
+   35  git config "espparki@gmail.com"
+   36  git config - - "espparki@gmail.com"
+   37  git config - -"espparki@gmail.com"
+   38  git config - -global user.email "espparki@gmail.com"
+   39  git config - -global user.name "Espparki"
+   40  git commit
+   41  git config --global user.email "espparki@gmail.com"
+   42  git config --global user.name "Espparki"
+   43  git commit
+   44  ls
+   45  ls
+   46  ls
+   47  ls
+   48  ls
+   49  ls
+   50  cat fichero1.txt
+   51  git commit
+   52  git commit -m
+   53  git commit -m Primera version
+   54  git status
+   55  git commit
+   56  git add fichero1.txt
+   57  git status
+   58  git Commit
+   59  git commit
+   60  git status
+   61  touch fichero2.txt
+   62  git status
+   63  git add fichero2.txt
+   64  git commit .
+   65  git status
+   66  git commit
+   67  git status
+   68  git commit
+   69  git commit .
+   70  git status
+   71  ls
+   72  ls
+   73  git diff fichero1.txt
+   74  ls
+   75  ls
+   76  git diff fichero1.txt
+   77  ls
+   78  git status
+   79  git diff fichero1.txt
+   80  git status
+   81  git commit -m version
+   82  git commit fichero1.txt -m version
+   83  git status
+   84  git diff fichero1.txt
+   85  git diff fichero1.txt
+   86  git diff fichero1.txt
+   87  git diff fichero1.txt
+   88  git diff fichero1.txt
+   76  git diff fichero1.txt
+   77  ls
+   78  git status
+   79  git diff fichero1.txt
+   80  git status
+   81  git commit -m version
+   82  git commit fichero1.txt -m version
+   83  git status
+   84  git diff fichero1.txt
+   85  git diff fichero1.txt
+   86  git diff fichero1.txt
+   87  git diff fichero1.txt
+   88  git diff fichero1.txt
+   89  git diff fichero1.txt
+   90  git diff fichero1.txt
+   91  git diff fichero1.txt
+   92  git diff fichero1.txt
+   93  git diff fichero1.txt
+   94  git diff fichero1.txt
+   95  git diff fichero1.txt
+   96  git diff fichero1.txt
+   97  git diff fichero1.txt
+   98  git diff fichero1.txt
+   99  git diff fichero1.txt
+  100  git diff fichero1.txt
+  101  git diff fichero1.txt
+  102  git diff fichero1.txt
+  103  git diff fichero1.txt
+  104  git diff fichero1.txt
+  105  git diff fichero1.txt
+  106  git diff fichero1.txt
+  107  git diff fichero1.txt
+  108  git diff fichero1.txt
+  109  git diff fichero1.txt
+  110  git diff fichero1.txt
+  111  git diff fichero1.txt
+  112  git diff fichero1.txt
+  113  git diff fichero1.txt
+  114  git diff fichero1.txt
+  115  git diff fichero1.txt
+  116  git diff fichero1.txt
+  117  git diff fichero1.txt
+  118  git diff fichero1.txt
+  119  git diff fichero1.txt
+  120  git diff fichero1.txt
+  121  git diff fichero1.txt
+  122  git diff fichero1.txt
+  123  git diff fichero1.txt
+  124  git diff fichero1.txt
+  125  git diff fichero1.txt
+  126  git diff fichero1.txt
+  127  git diff fichero1.txt
+  128  git diff fichero1.txt
+  129  git diff fichero1.txt
+  130  git diff fichero1.txt
+  131  git diff fichero1.txt
+  132  git diff fichero1.txt
+  133  git diff fichero1.txt
+  134  git diff fichero1.txt
+  135  git diff fichero1.txt
+  136  git diff
+  137  git diff
+  138  git diff
+  139  git diff
+  140  git diff
+  141  git diff
+  142  git diff
+  143  git diff
+  144  git diff
+  145  git diff
+  146  git diff
+  147  git diff
+  148  git diff
+  149  git diff
+  150  clear
+  151  clear
+  152  clear
+  153  clear
+  154  clear
+  155  clear
+  156  clear
+  157  clear
+  158  git diff
+  159  git diff
+  160  git diff
+  161  git diff
+  162  git diff
+  163  git diff
+  164  git diff
+  165  git diff
+  166  git diff
+  167  git diff
+  168  git diff
+  169  git diff
+  170  git diff
+  171  git diff
+  172  git diff
+  173  git diff
+  174  git diff
+  175  git diff
+  176  git diff
+  177  git diff
+  178  git diff
+  179  git diff
+  180  git diff
+  174  git diff
+  175  git diff
+  176  git diff
+  177  git diff
+  178  git diff
+  179  git diff
+  180  git diff
+  181  git diff
+  182  git diff
+  183  git diff
+  184  git diff
+  185  git diff
+  186  git diff
+  187  git diff
+  188  git diff
+  189  git diff
+  190  git diff
+  191  git diff
+  192  git diff
+  193  git diff
+  194  git diff
+  195  git diff
+  196  git diff
+  197  git diff
+  198  git diff
+  199  git diff
+  200  git diff
+  201  git diff
+  202  git diff
+  203  git diff
+  204  git diff
+  205  git diff
+  206  git log
+  207  git config --global diff.tool tkdiff
+  208  git diff fichero1.txt
+  209  git log
+  210  git remote add origin "https://github.com/espparki1/Proyectos.git"
+  211  ls
+  212  l
+  213  sls
+  214  ls
+  215  ls
+  216  git push
+  217  git push
+  218  git push
+  219  git branch -M master
+  220*
+  221  git push -u origin master
+  222  history
+
